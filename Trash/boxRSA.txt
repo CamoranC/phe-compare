@@ -1,0 +1,4 @@
+#index median box_top box_bottom whisker_top whisker_bottom
+1024 0.123 0.183 0.0732 0.838 0.0171
+2048 0.512 0.778 0.322 2.78 0.0719
+3072 1.51 2.41 0.938 7.68 0.196
